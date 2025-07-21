@@ -40,7 +40,7 @@ params:
 
   assets:
     # disableHLJS: true # to disable highlight.js
-    disableFingerprinting: true
+    disableFingerprinting: false
     favicon: "<link / abs url>"
 
   # home-info mode
