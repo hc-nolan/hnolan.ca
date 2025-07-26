@@ -1,4 +1,4 @@
-Hi, thanks for visiting my site. My name is Hayden Nolan and I'm interested in IT security, programming, music, and postmodern literature.
+# About me
 
 My current occupations:
 - 4th year [Networking & IT Security](https://ontariotechu.ca/programs/undergraduate/computers-and-technology/information-technology-networking-and-information-technology-security) @ Ontario Tech University
@@ -7,9 +7,9 @@ My current occupations:
 
 I also used to be president of [Netsoc](https://netsoc.ca) (2023-2024).
 
-In my 2 years at eSentire I've gained experience using various security tooling - multiple SIEMs, EDRs, etc. - and become highly proficient at performing in depth security invesstigations of IT environments.
+In my 2 years at eSentire I've become highly proficient at performing in depth security investigations using a variety of different security products.
 
-I've worked on various different projects at the ANTS lab, but the one I am most proud of is my work on the IAEA's Asherah Nuclear Power Plant Simulator (ANS). ANS is a nuclear simulator environment designed to be used for security training exercises, and I was responsible for integrating a SOC into the project stack using ELK. I have also done extensive enhancements to the existing project code to fix bugs, and improve performance & stability. Additionally, I introduced Ansible playbooks to deploy the environment as an alterantive to monolithic Bash scripts. This work is in the progress of being open-sourced.
+I've worked on various different projects at the ANTS lab, but the one I am most proud of is my contribution to the IAEA's Asherah Nuclear Power Plant Simulator (ANS). ANS is designed to be used for security training exercises, and I was responsible for integrating a SOC into the project stack using ELK. I have also made extensive enhancements to the existing project code to fix bugs and improve performance & stability. Additionally, I introduced Ansible playbooks to deploy the environment as an alterantive to monolithic Bash scripts. This work is in the progress of being open-sourced.
 
 I have written a few things elsewhere:
 - [TryHackMe success story](https://tryhackme.com/r/resources/blog/haydens-success-story)
