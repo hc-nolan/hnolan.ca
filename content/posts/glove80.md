@@ -32,3 +32,7 @@ On my Alice layout board, I'm a relatively speedy typer - averaging around 150-1
 By the end of day 1, I got up to about 25wpm with numbers + punctuation enabled, and about 40wpm with just letters. On day 2 I decided to just focus on letters, and ended the day around 55wpm.
 
 I'd estimate I've been typing on it 1-2 hours per day. I'm not using it for work yet but I'm using it for most stuff on my personal computer.
+
+---
+
+It's now been about a week, and I am pretty comfortable. Not enough for work yet, but enough that I'm enjoying using it. I'm up to about 100wpm.
