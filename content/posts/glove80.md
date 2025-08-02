@@ -36,3 +36,13 @@ I'd estimate I've been typing on it 1-2 hours per day. I'm not using it for work
 ---
 
 It's now been about a week, and I am pretty comfortable. Not enough for work yet, but enough that I'm enjoying using it. I'm up to about 100wpm.
+
+---
+
+About 3 days after I wrote the above, I started using it for work, and it's now been about a week of me using it full time, without switching back to the V10 Max. I am still not up to speed, and I'm definitely still learning the keyboard, but I am no longer so slow that I find it cumbersome to use. And it's so comfortable and fun to type on that I just want to use it all the time.
+
+The only thing I miss about the V10 Max is that it came with a 2.4GHz transceiver for wireless connection, which was much superior to Bluetooth. Having to go back to Bluetooth on the Glove80 isn't great, but it's a pretty minor annoyance. The only reason it's an issue at all is because I frequently switch between devices when working (my personal PC and my work laptop). Sometimes I have to press the key combination a few times to get it to switch, and sometimes it takes a few seconds to reconnect. But I can definitely live with that.
+
+I haven't experimented too much with tenting yet, but so far I am not really impressed by the tenting mechanism. I am doing what the manual recommends and keeping it with no tenting for now, but I did try it out for a little bit. For one, it doesn't seem to really be able to tent to the degree that I would like, without buying equipment to mount it, which is not really something I want to do.
+
+Interestingly, I'm still around 100wpm, which means I haven't improved much in about a week. But I feel like there is almost no way this is true, and I may have just gotten lucky or really been in the zone when I tested a week ago. I definitely feel faster than I was previously. And I definitely know the keyboard more in terms of muscle memory and mistakes.
