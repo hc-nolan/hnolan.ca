@@ -1,8 +1,14 @@
 ---
 date: '2025-08-04T16:09:22-04:00'
-draft: true
-title: 'Slskd'
+draft: false
+title: 'Adding a (tiny) new feature to Slskd'
 ---
+
+This post is about adding a small new feature to an open source project. Even if you don't care about the project (Slskd), you will see how easy contributing to open source can be (sometimes).
+
+<!--more-->
+
+# What is Soulseek?
 
 Soulseek is a very cool peer-to-peer file sharing network. Unfortunately, its official desktop client isn't the best, so many people, including myself, use an alternative like Nicotine+. However, it would be nice to be able to access Soulseek from any device I want without having to install Nicotine+ on each one, so I sought out a web alternative. There are projects that simply serve the exact same desktop app in the browser through things like VNC, but I prefer something built with the web in mind.
 
@@ -14,7 +20,7 @@ Thankfully, the project is open source on GitHub. However, there's a problem: It
 
 That is what this post is about. I am going to attempt to add this as a feature without knowing how either of these things work. My hope is to show that contributing to open source projects can sometimes be pretty easy, even if you have no clue what you're doing.
 
----
+# Getting started
 
 I started by forking the repository, cloning my fork, and creating a new branch for the feature. I already know that the configuration for this feature will happen in the global config file, but I am not sure how the code uses that file yet. The first thing I want to figure out, though, is how the search filters work in the app.
 
@@ -44,6 +50,8 @@ We can now build the Docker image, launch the app, make a search, and see if the
 ![](./5.png)
 
 It works!
+
+# How does the config work?
 
 So now I need to figure out how the app actually uses the config values. I know that there are other web config options already; how are they passed into the app?
 
@@ -129,6 +137,8 @@ public class WebOptions
     ...
 ```
 
+# Making the changes
+
 At this point I thought this might be enough to get everything working, so I started making additions. I added the following to `WebOptions` above:
 
 ```c
@@ -203,4 +213,6 @@ Values that are set show `(YamlConfigurationProvider for 'slskd.yml' (Optional))
 
 ![](./9.png)
 
-Hooray, we have successfully made our change. Now it's time to contribute these changes upstream by opening a [pull request](https://github.com/slskd/slskd/pull/1412).
+# Conclusion
+
+Hooray, we have successfully made our change. Now it's time to contribute these changes upstream by opening a [pull request](https://github.com/slskd/slskd/pull/1412). I'll update this post once the pull request has been dealt with; there may be certain changes that the maintainer asks for.
